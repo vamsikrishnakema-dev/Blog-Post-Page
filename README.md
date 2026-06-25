@@ -5,6 +5,7 @@ This is a simple **Blog Post Page project** built using pure HTML, focusing on *
 ---
 
 ## 🚀 Live Demo
+## Project URL
 👉 https://vamsikrishnakema-dev.github.io/Blog-Post-Page/
 
 ---
@@ -56,7 +57,7 @@ Vamsi Krishna
 GitHub: https://github.com/vamsikrishnakema-dev
 
 
-## Project from
+## Project URL
 
 https://roadmap.sh/projects/blog-post-page
 
